@@ -13,6 +13,9 @@ body {
   height: 5rem;
   background-color: white;
 }
+.container-fluid {
+  background: #fff;
+}
 
 .fa-compass {
   color: #fe424d;
